@@ -1,1 +1,2 @@
-Izmjena drugi_branch
+Ovo je master
+I ovo treba ostati master
