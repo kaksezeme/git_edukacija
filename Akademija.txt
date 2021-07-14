@@ -1,3 +1,5 @@
 KING Akademija 2021
 Java
 .Net
+
+Ovo je najbolja generacija do sada!
