@@ -1,1 +1,1 @@
-"# git_edukacija" 
+Ovo je GIT edukacija
